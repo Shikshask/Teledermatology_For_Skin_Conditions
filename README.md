@@ -9,7 +9,7 @@ Pre-trained Model: Utilizes the VGG16 model, pre-trained on ImageNet, for featur
 
 Dataset
 The dataset consists of labeled images of skin diseases sourced from publicly available datasets:
-DermNet
+http://www.dermnet.com/dermatology-pictures-skin-disease-pictures
 
 Data Preprocessing:
 Images resized to 128x128 pixels for compatibility with the model.
