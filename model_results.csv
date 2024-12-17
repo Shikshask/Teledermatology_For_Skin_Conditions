@@ -1,0 +1,5 @@
+Metric,Proposed Model,Baseline Model
+Accuracy (%),62.5,68.2
+Precision (%),60.2,67.5
+Recall (%),68.7,65.9
+F1-Score (%),69.4,66.7
